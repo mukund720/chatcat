@@ -1,0 +1,4 @@
+{
+    "host":"http://localhost:3000",
+    "dbURI":"mongodb+srv://mukund720:1234@cluster0.tcnnh.mongodb.net/?retryWrites=true&w=majority"
+}

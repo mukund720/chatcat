@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/mukund720/chatcat/issues"
   },
-  "homepage": "https://github.com/mukund720/chatcat#readme"
+  "homepage": "https://github.com/mukund720/chatcat#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
 }
