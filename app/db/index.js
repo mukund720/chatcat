@@ -8,6 +8,6 @@ Mongoose.connection.on('error',error=>{
     console.log('DB Connection error',error)
 })
 
-// module.exports={
-//     Mongoose.
-// }
+module.exports={
+    Mongoose
+}
