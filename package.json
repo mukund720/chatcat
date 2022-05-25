@@ -1,0 +1,23 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukund720/chatcat.git"
+  },
+  "keywords": [
+    "nodejschat",
+    "chatproject"
+  ],
+  "author": "mukund@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukund720/chatcat/issues"
+  },
+  "homepage": "https://github.com/mukund720/chatcat#readme"
+}
